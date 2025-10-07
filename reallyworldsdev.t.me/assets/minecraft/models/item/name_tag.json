@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/name_tag"},"overrides":[{"predicate":{"custom_model_data":1},"model":"reallyworld:item/key1"},{"predicate":{"custom_model_data":2},"model":"reallyworld:item/key2"},{"predicate":{"custom_model_data":3},"model":"reallyworld:item/key3"}]}
