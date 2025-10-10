@@ -1,6 +1,6 @@
 # ReallyWorld-ResourcePack
 ResourcePack from ReallyWorld
-### * by @reallyworldsdev (гайд для установки:https://t.me/rwsdevleak/43)
+### * by @reallyworldsdev
 
 ## [ГАЙД КАК СКАЧАТЬ МОЮ СБОРКУ С GITHUB](https://github.com/reallyworldsdev/Github-Guide)
 <img width="1276" height="816" alt="изображение" src="https://github.com/user-attachments/assets/8fa24b92-7929-44f3-9dfb-841debb36eef" />
