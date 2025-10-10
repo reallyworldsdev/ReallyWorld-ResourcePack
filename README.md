@@ -1,5 +1,5 @@
-# ReallyWorld-ResoursePack
-ResoursePack from ReallyWorld
+# ReallyWorld-ResourcePack
+ResourcePack from ReallyWorld
 ### * by @reallyworldsdev (гайд для установки:https://t.me/rwsdevleak/43)
 
 ## [ГАЙД КАК СКАЧАТЬ МОЮ СБОРКУ С GITHUB](https://t.me/rwsdevleak/20)
